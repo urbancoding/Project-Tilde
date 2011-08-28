@@ -1,0 +1,107 @@
+/*
+  GLOSSARY
+  1. <RESET>
+  2. <GRID>
+*/
+
+/* BEGIN <RESET> */
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+
+/* END <RESET> */
+
+/* BEGIN <GRID> */
+
+body {min-width: 960px;}.container_16{margin-left: auto;margin-right: auto;width: 1040px;}.grid_1,.grid_2,.grid_3,.grid_4,.grid_5,.grid_6,.grid_7,.grid_8,.grid_9,.grid_10,.grid_11,.grid_12,.grid_13,.grid_14,.grid_15,.grid_16 {display: inline;float: left;margin-left: 10px;margin-right: 10px;}.push_1, .pull_1,.push_2, .pull_2,.push_3, .pull_3,.push_4, .pull_4,.push_5, .pull_5,.push_6, .pull_6,.push_7, .pull_7,.push_8, .pull_8,.push_9, .pull_9,.push_10, .pull_10,.push_11, .pull_11,.push_12, .pull_12,.push_13, .pull_13,.push_14, .pull_14,.push_15, .pull_15 {position: relative;}.alpha {margin-left: 0;}.omega {margin-right: 0;}.container_16 .grid_1 {width: 45px;}.container_16 .grid_2 {width: 110px;}.container_16 .grid_3 {width: 175px;}.container_16 .grid_4 {width: 240px;}.container_16 .grid_5 {width: 305px;}.container_16 .grid_6 {width: 370px;}.container_16 .grid_7 {width: 435px;}.container_16 .grid_8 {width: 500px;}.container_16 .grid_9 {width: 565px;}.container_16 .grid_10 {width: 630px;}.container_16 .grid_11 {width: 695px;}.container_16 .grid_12 {width: 760px;}.container_16 .grid_13 {width: 825px;}.container_16 .grid_14 {width: 890px;}.container_16 .grid_15 {width: 955px;}.container_16 .grid_16 {width: 1020px;}.container_16 .prefix_1 {padding-left: 65px;}.container_16 .prefix_2 {padding-left: 130px;}.container_16 .prefix_3 {padding-left: 195px;}.container_16 .prefix_4 {padding-left: 260px;}.container_16 .prefix_5 {padding-left: 325px;}.container_16 .prefix_6 {padding-left: 390px;}.container_16 .prefix_7 {padding-left: 455px;}.container_16 .prefix_8 {padding-left: 520px;}.container_16 .prefix_9 {padding-left: 585px;}.container_16 .prefix_10 {padding-left: 650px;}.container_16 .prefix_11 {padding-left: 715px;}.container_16 .prefix_12 {padding-left: 780px;}.container_16 .prefix_13 {padding-left: 845px;}.container_16 .prefix_14 {padding-left: 910px;}.container_16 .prefix_15 {padding-left: 975px;}.container_16 .suffix_1 {padding-right: 65px;}.container_16 .suffix_2 {padding-right: 130px;}.container_16 .suffix_3 {padding-right: 195px;}.container_16 .suffix_4 {padding-right: 260px;}.container_16 .suffix_5 {padding-right: 325px;}.container_16 .suffix_6 {padding-right: 390px;}.container_16 .suffix_7 {padding-right: 455px;}.container_16 .suffix_8 {padding-right: 520px;}.container_16 .suffix_9 {padding-right: 585px;}.container_16 .suffix_10 {padding-right: 650px;}.container_16 .suffix_11 {padding-right: 715px;}.container_16 .suffix_12 {padding-right: 780px;}.container_16 .suffix_13 {padding-right: 845px;}.container_16 .suffix_14 {padding-right: 910px;}.container_16 .suffix_15 {padding-right: 975px;}.container_16 .push_1 {left: 65px;}.container_16 .push_2 {left: 130px;}.container_16 .push_3 {left: 195px;}.container_16 .push_4 {left: 260px;}.container_16 .push_5 {left: 325px;}.container_16 .push_6 {left: 390px;}.container_16 .push_7 {left: 455px;}.container_16 .push_8 {left: 520px;}.container_16 .push_9 {left: 585px;}.container_16 .push_10 {left: 650px;}.container_16 .push_11 {left: 715px;}.container_16 .push_12 {left: 780px;}.container_16 .push_13 {left: 845px;}.container_16 .push_14 {left: 910px;}.container_16 .push_15 {left: 975px;}.container_16 .pull_1 {left: -65px;}.container_16 .pull_2 {left: -130px;}.container_16 .pull_3 {left: -195px;}.container_16 .pull_4 {left: -260px;}.container_16 .pull_5 {left: -325px;}.container_16 .pull_6 {left: -390px;}.container_16 .pull_7 {left: -455px;}.container_16 .pull_8 {left: -520px;}.container_16 .pull_9 {left: -585px;}.container_16 .pull_10 {left: -650px;}.container_16 .pull_11 {left: -715px;}.container_16 .pull_12 {left: -780px;}.container_16 .pull_13 {left: -845px;}.container_16 .pull_14 {left: -910px;}.container_16 .pull_15 {left: -975px;}.clear {clear: both;display: block;overflow: hidden;visibility: hidden;width: 0;height: 0;}.clearfix:before,.clearfix:after {content: "\0020";display: block;overflow: hidden;visibility: hidden;width: 0;height: 0;}.clearfix:after {clear: both;}.clearfix {zoom: 1;}
+
+/* END <GRID> */
+
+body {
+    font-family: 'Allerta', sans-serif;
+    font-size: 14px;
+    color: #2c2c2c;
+    line-height: 1.5;
+}
+
+section { margin-bottom: 16px; }
+
+.mast, .footer {
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    background-color: #f61e1d;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    letter-spacing: -1px;
+}
+
+.mast { margin-bottom: 16px; }
+
+.footer {
+    font-size: 14px;
+    padding-top: 4px;
+    padding-bottom: 2px;
+}
+
+    .footer a { color: white; }
+
+h1 {
+    text-indent: -9999px;
+    background: url('../images/title.jpg') center center no-repeat;
+    width: 480px;
+    height: 350px;
+    margin-bottom: 16px;
+}
+
+h2 {
+    color: #f61e1d;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 8px;
+    letter-spacing: -1px;
+    border-bottom: 1px dotted #2c2c2c;
+    text-transform: uppercase;
+}
+
+h3 {
+    margin-bottom: 8px;
+}
+
+p {
+    margin-bottom: 8px;
+} 
+
+.join-us {
+    background-color: #f61e1d;
+    padding: 4px 0;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+    .join-us iframe { position: relative; top: 3px; margin-left: 4px;  }
+
+.example { margin-bottom: 8px;  }
+
+    .example .before,
+    .example .after { width: 245px; float: left; }
+
+    .example .before { margin-right: 10px; }
+
+    .example .before img,
+    .example .after img { 
+        border-style: solid; 
+        border-width: 2px;
+        width: 241px;
+        margin-bottom: 8px;
+     }
+
+    .example .before img { border-color: #999; }
+    .example .after img { border-color: #f61e1d;}
+
+    .example span { display: block; text-align: center; font-size: 16px; }
+    .example .after span { font-weight: bold; }
+     
