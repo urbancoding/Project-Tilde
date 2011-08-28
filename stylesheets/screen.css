@@ -83,6 +83,7 @@ p {
 }
 
     .join-us iframe { position: relative; top: 3px; margin-left: 4px;  }
+    .join-us iframe.facebook { top: 4px; }
 
 .example { margin-bottom: 8px;  }
 

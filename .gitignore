@@ -1,3 +1,4 @@
 *.swp
 raw/
 .DS_Store
+*.swo
